@@ -62,21 +62,27 @@ with a focus on building full-stack systems and exploring ML integration and dev
      FULL TECH STACK
 ===================== -->
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,c,js,ts,java" />
-  </p>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-  </p>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,dotnet" />
-  </p>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
-  </p>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,vite" />
-  </p>
+<table align="center" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" colspan="3" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=py,c,js,ts,java" />
+    </td>
+    <td align="center" colspan="3" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,graphql" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,dotnet" />
+    </td>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
+    </td>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,vite" />
+    </td>
+  </tr>
+</table>
   
 </details>
 
