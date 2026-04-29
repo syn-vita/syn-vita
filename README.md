@@ -42,7 +42,7 @@ with a focus on building full-stack systems and exploring ML integration and dev
      STATUS SECTION
 ===================== -->
 
-<details open>
+<details>
   <summary align="center"><b>Other</b></summary>
   <br>
   <table align="center">
