@@ -33,7 +33,7 @@ with a focus on building full-stack systems and exploring ML integration and dev
   <samp>
     <a href="mailto:gbajit514@gmail.com">Email</a> •
     <a href="https://linkedin.com/in/giancarlobajit">LinkedIn</a> •
-    <a href="https://leetcode.com/u/syn_vita/">LeetCode</a> •
+    <a href="https://leetcode.com/u/syn-vita/">LeetCode</a> •
     <a href="https://discordapp.com/users/396282075189346305">Discord</a>
   </samp>
 </p>
