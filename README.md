@@ -48,7 +48,7 @@ with a focus on building full-stack systems and exploring ML integration and dev
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=synvita&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook"/>
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=syn-vita&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook"/>
       </td>
       <td align="center">
         <img src="https://streak-stats.demolab.com?user=syn-vita&theme=dark&hide_border=true" />
